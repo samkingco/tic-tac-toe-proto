@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe-proto",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Sam King",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
